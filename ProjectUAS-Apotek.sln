@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectUAS_Apotek", "ProjectUAS-Apotek\ProjectUAS_Apotek.csproj", "{81F65602-BE06-4486-B1A1-5F71E95DC199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Debug|Default.Build.0 = Debug|Any CPU
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Release|Default.ActiveCfg = Release|Any CPU
+		{81F65602-BE06-4486-B1A1-5F71E95DC199}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDFA3EDA-20E4-479C-9380-4EC187406AB0}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
